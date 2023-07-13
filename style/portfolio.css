@@ -109,5 +109,16 @@ nav a {
 .section-description {
     color: #757575;
     text-align: center;
-    font-size: 20px;
-}   
+   
+}  
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+.section-dis{
+    padding: 30px 700px;
+}
+
